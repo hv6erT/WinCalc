@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerType>NativeOnly</DebuggerType>
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Win10 Debug|x64'">
+    <DebuggerType>NativeOnly</DebuggerType>
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+    <Source>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</Source>
+    <SmallTileSource>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</SmallTileSource>
+    <MediumTileSource>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</MediumTileSource>
+    <WideTileSource>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</WideTileSource>
+    <LargeTileSource>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</LargeTileSource>
+    <AppIconSource>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</AppIconSource>
+    <SplashScreenSource>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</SplashScreenSource>
+    <PackageLogoSource>D:\Projekty\WinCalc\WinCalc\WinCalc\Assets\logo.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

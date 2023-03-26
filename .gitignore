@@ -1,0 +1,12 @@
+# Visual Studio generated files
+.vs
+packages
+WinCalc/Generated Files
+WinCalc/Release
+
+# Output files
+Release
+x64
+ARM64
+Add-AppDevPackage.resources/
+Dependencies
